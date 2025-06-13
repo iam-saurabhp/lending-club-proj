@@ -1,1 +1,1 @@
-THIS IS README FILE for project description
+this is read me file for project description
